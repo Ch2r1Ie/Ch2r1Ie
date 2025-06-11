@@ -1,5 +1,4 @@
 # Hi there! 👋 I'm Charlie
-
 <div align="center">
   <h2>🚀 Full Stack Developer & Cloud Architect</h2>
 </div>
