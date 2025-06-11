@@ -1,20 +1,16 @@
 # Hi there! 👋 I'm Charlie
-
 <div align="center">
-  <h2>🚀 Full Stack Developer & Cloud Architect</h2>
+  <h3>🚀 Full Stack Developer & Cloud Architect</h3>
 </div>
-##🎯 What I Do
-
+---
+## 🎯 What I Do
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
-
-**Core Specializations:**
-- 🔧 **Backend Development**: Go (Golang), Python, Node.js
-- 🎨 **Frontend Engineering**: Next.js, React, TypeScript, JavaScript
-- ☁️ **Cloud Architecture**: AWS, Google Cloud Platform, DigitalOcean
-- 🛠️ **DevOps & Infrastructure**: Docker, CI/CD, Microservices
-
+Core Specializations:
+- 🔧 Backend Development: Go (Golang), Python, Node.js
+- 🎨 Frontend Engineering: Next.js, React, TypeScript, JavaScript
+- ☁️ Cloud Architecture: AWS, Google Cloud Platform, DigitalOcean
+- 🛠️ DevOps & Infrastructure: Docker, CI/CD, Microservices
 ## 💻 Tech Stack
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="50" alt="Go" title="Go"/>
   <img width="10" />
@@ -40,18 +36,14 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
   <img width="10" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="50" alt="PostgreSQL" title="PostgreSQL"/>
 </div>
-
 ## 🌟 Beyond Code
-
 When I'm not building applications, you'll find me:
-- 📚 **Learning**: Constantly exploring emerging technologies and best practices
-- 📖 **Reading**: Diving deep into tech blogs, architecture patterns, and industry trends
-- 📖 **Reading**: Physics, The 48 Laws of Power, Economics 
-- 🤝 **Sport**: Badminton, FootBall, Running clubs
-- 🏔️ **Adventure Pursuits**: : Rock climbing, scuba diving, and trail hiking
-
+- 📚 Learning: Constantly exploring emerging technologies and best practices
+- 📖 Reading: Diving deep into tech blogs, architecture patterns, and industry trends
+- 📖 Reading: Physics, The 48 Laws of Power, Economics 
+- 🤝 Sport: Badminton, FootBall, Running clubs
+- 🏔️ Adventure Pursuits: : Rock climbing, scuba diving, and trail hiking
 ##
-
 <div align="center">
   <em>✨ "Code is poetry, and every commit tells a story." ✨</em>
 </div>
