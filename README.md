@@ -49,7 +49,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 When I'm not building applications, you'll find me:
 - 📚 **Learning**: Constantly exploring emerging technologies and best practices
 - 📖 **Reading**: Diving deep into tech blogs, architecture patterns, and industry trends
-- 📖 **Reading**: Physics, The 48 Law of power[Robert Greene], Economics 
+- 📖 **Reading**: Physics, The 48 Laws of Power, Economics 
 - 🤝 **Sport**: Badminton, FootBall, Running clubs
 
 ##
