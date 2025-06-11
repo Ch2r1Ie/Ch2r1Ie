@@ -52,13 +52,6 @@ When I'm not building applications, you'll find me:
 - 📖 **Reading**: Diving deep into tech blogs, architecture patterns, and industry trends
 - 🤝 **Contributing**: Active in open-source projects and developer communities
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Ch2r1Ie&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=8" height="160" alt="GitHub Streak"/>
-  <img src="https://github-profile-trophy.vercel.app?username=Ch2r1Ie&theme=tokyonight&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="160" alt="GitHub Trophies"/>
-</div>
-
 <div align="center">
   <em>✨ "Code is poetry, and every commit tells a story." ✨</em>
 </div>
