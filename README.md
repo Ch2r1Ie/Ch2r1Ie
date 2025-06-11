@@ -52,7 +52,7 @@ When I'm not building applications, you'll find me:
 - 📖 **Reading**: Physics, The 48 Law of power[Robert Greene], Economics 
 - 🤝 **Sport**: Badminton, FootBall, Running clubs
 
-## 🌟 --
+
 <div align="center">
   <em>✨ "Code is poetry, and every commit tells a story." ✨</em>
 </div>
