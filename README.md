@@ -51,6 +51,7 @@ When I'm not building applications, you'll find me:
 - 📖 **Reading**: Diving deep into tech blogs, architecture patterns, and industry trends
 - 📖 **Reading**: Physics, The 48 Laws of Power, Economics 
 - 🤝 **Sport**: Badminton, FootBall, Running clubs
+- 🏔️ **Adventure Pursuits**: : Rock climbing, scuba diving, and trail hiking
 
 ##
 
