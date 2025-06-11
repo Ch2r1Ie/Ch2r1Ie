@@ -1,4 +1,13 @@
 <h1 align="center">Hey 👋What's Up?</h1>
+<h3>🚀 Full Stack Software Engineer | ⚙️ Go (Golang) | 🌐 Next.js | 📜 TypeScript | 💻 JavaScript
+
+☁️ Skilled in Google Cloud, AWS, and DigitalOcean, crafting scalable and secure cloud solutions.
+
+📚 Avid reader constantly exploring new horizons in technology and beyond.
+
+🎓 Passionate about teaching, mentoring, and sharing knowledge to empower growth in the developer community.
+
+Let's build something impactful together! ✨</h3>
 
 ###
 
