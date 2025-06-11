@@ -60,28 +60,6 @@ When I'm not building applications, you'll find me:
   <img src="https://github-profile-trophy.vercel.app?username=Ch2r1Ie&theme=tokyonight&column=4&row=2&margin-w=8&margin-h=8&no-bg=true&no-frame=true" height="160" alt="GitHub Trophies"/>
 </div>
 
-## 🚀 Let's Connect & Collaborate
-
-I'm always excited to work on innovative projects and connect with fellow developers. Whether you're looking to build something amazing or just want to chat about tech, feel free to reach out!
-
-<div align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-</div>
-
----
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ch2r1Ie/Ch2r1Ie/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ch2r1Ie/Ch2r1Ie/output/pacman-contribution-graph.svg">
-    <img alt="GitHub Contribution Graph" src="https://raw.githubusercontent.com/Ch2r1Ie/Ch2r1Ie/output/pacman-contribution-graph.svg">
-  </picture>
-</div>
-
 <div align="center">
   <em>✨ "Code is poetry, and every commit tells a story." ✨</em>
 </div>
