@@ -1,8 +1,7 @@
 # Hi there! 👋 I'm Charlie
 
 <div align="center">
-  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80" width="100%" height="300" style="object-fit: cover; border-radius: 10px;" alt="Space and Technology Banner"/>
-  <h3>🚀 Full Stack Developer & Cloud Architect</h3>
+  <h1>🚀 Full Stack Developer & Cloud Architect</h1>
 </div>
 
 ## 🎯 What I Do
