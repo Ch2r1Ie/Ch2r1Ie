@@ -5,10 +5,6 @@
   <h3>🚀 Full Stack Developer & Cloud Architect</h3>
 </div>
 
-<div align="center">
-  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2125&q=80" width="100%" height="150" style="object-fit: cover; border-radius: 8px; margin: 20px 0;" alt="Coding Background"/>
-</div>
-
 ## 🎯 What I Do
 
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
