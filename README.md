@@ -48,10 +48,11 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 
 When I'm not building applications, you'll find me:
 - 📚 **Learning**: Constantly exploring emerging technologies and best practices
-- 🎓 **Teaching**: Mentoring developers and sharing knowledge through workshops
 - 📖 **Reading**: Diving deep into tech blogs, architecture patterns, and industry trends
-- 🤝 **Contributing**: Active in open-source projects and developer communities
+- 📖 **Reading**: Physics, The 48 Law of power[Robert Greene], Economics 
+- 🤝 **Sport**: Badminton, FootBall, Running clubs
 
+## 🌟 --
 <div align="center">
   <em>✨ "Code is poetry, and every commit tells a story." ✨</em>
 </div>
