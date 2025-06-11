@@ -1,10 +1,13 @@
 # Hi there! 👋 I'm Charlie
 
 <div align="center">
+  <img src="https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2072&q=80" width="100%" height="200" style="object-fit: cover; border-radius: 10px;" alt="Space and Technology Banner"/>
   <h3>🚀 Full Stack Developer & Cloud Architect</h3>
 </div>
 
----
+<div align="center">
+  <img src="https://images.unsplash.com/photo-1518709268805-4e9042af2176?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2125&q=80" width="100%" height="150" style="object-fit: cover; border-radius: 8px; margin: 20px 0;" alt="Coding Background"/>
+</div>
 
 ## 🎯 What I Do
 
