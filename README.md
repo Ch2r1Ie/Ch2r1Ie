@@ -2,7 +2,6 @@
 
 <div align="center">
   <h3>🚀 Full Stack Developer & Cloud Architect</h3>
-  <p><em>Building scalable solutions with modern technologies</em></p>
 </div>
 
 ---
