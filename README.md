@@ -7,7 +7,7 @@
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
 
 **Core Specializations:**
-- 🔧 **Backend Development**: Go (Golang), Python, Node.js
+- 🔧 **Backend Development**: Go (Golang), Kotlin, K6
 - 🎨 **Frontend Engineering**: Next.js, React, TypeScript, JavaScript
 - ☁️ **Cloud Architecture**: AWS, Google Cloud Platform, DigitalOcean
 - 🛠️ **DevOps & Infrastructure**: Docker, CI/CD, Microservices
