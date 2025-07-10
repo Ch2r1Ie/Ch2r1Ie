@@ -29,27 +29,18 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css3 logo" />
-  
-  <br /><br />
-
   <!-- Frameworks & Libraries -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="60" alt="nextjs logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwindcss logo" />
-
-  <br /><br />
-
   <!-- Databases -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="60" alt="postgresql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="mongodb logo" />
-
-  <br /><br />
-
   <!-- Cloud & DevOps -->
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="aws logo" />
   <img width="12" />
@@ -60,9 +51,6 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="60" alt="docker logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/argocd/argocd-original.svg" height="60" alt="argocd logo" />
-
-  <br /><br />
-
   <!-- Tools & Platforms -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/confluence/confluence-original.svg" height="60" alt="confluence logo" />
   <img width="12" />
