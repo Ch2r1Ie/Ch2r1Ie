@@ -5,31 +5,6 @@ charlie // compiles systems, ships features, maintains small humans
 
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
 
-```go
-package main
-
-import "fmt"
-
-type Charlie struct {
-    Languages  []string
-    Frontend   []string
-    Cloud      []string
-    DevOps     []string
-    CurrentlyBuilding string
-}
-
-func main() {
-    me := Charlie{
-        Languages:  []string{"Go", "Kotlin", "TypeScript", "JavaScript", "Python"},
-        Frontend:   []string{"Next.js", "React", "Tailwind"},
-        Cloud:      []string{"AWS", "GCP", "DigitalOcean"},
-        DevOps:     []string{"Docker", "ArgoCD", "CI/CD", "Microservices"},
-        CurrentlyBuilding: "something cool...",
-    }
-    fmt.Printf("%+v\n", me)
-}
-```
-
 ---
 
 ## Projects
@@ -41,7 +16,7 @@ func main() {
 
 ---
 
-## Explore
+## Explorer
 
 <div align="center">
   <!-- Languages -->
