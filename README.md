@@ -1,7 +1,9 @@
 ```bash
 $ whoami
-charlie — full stack dev & cloud tinkerer
+charlie // compiles systems, ships features, maintains small humans
 ```
+
+I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
 
 ```go
 package main
@@ -90,7 +92,7 @@ func main() {
 
 ```
 outside of work:
-  reading    → physics, economics, 48 laws of power
+  reading    → physics, economics
   sports     → badminton, football, running
   mindset    → always learning
 ```
