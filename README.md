@@ -8,8 +8,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 
 ## Current Projects
 
-### Philosophy
-
+**Philosophy**
 F* that. We’re gonna get it done.
 
 **Core Specializations:**
