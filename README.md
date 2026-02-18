@@ -8,7 +8,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 
 <br />
 
-**Activity**
+## Activity
 
 <p align="center">
   <img src="https://ghchart.rshah.org/Ch2r1Ie" alt="GitHub Contributions Chart" />
@@ -16,7 +16,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 
 <br />
 
-**Projects**
+## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
@@ -25,7 +25,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 
 <br />
 
-**Explorer**
+## Explorer
 
 <div align="center">
   <!-- Languages -->
