@@ -19,7 +19,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 
 
 
-## 💻 Tech Stack
+## 💻 Explorer
 
 <div align="center">
   <!-- Languages -->
@@ -62,7 +62,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
 </div>
 
-## 🌟 Beyond Code
+**Beyond Code**
 
 When I'm not building applications, you'll find me:
 - 📚 **Learning**: Constantly exploring emerging technologies and best practices
