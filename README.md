@@ -5,24 +5,24 @@ charlie
 
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment. My expertise spans across modern web technologies and cloud infrastructure, with a focus on creating impactful solutions that solve real-world problems.
 
----
 
-## Activity
+
+**Activity**
 
 <p align="center">
   <img src="https://ghchart.rshah.org/Ch2r1Ie" alt="GitHub Contributions Chart" />
 </p>
 
-## Projects
+**Projects**
 
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [Project Name](https://github.com/username/repo) | What it does in one line. | Go, PostgreSQL |
 | [Project Name](https://github.com/username/repo) | What it does in one line. | Next.js, TypeScript |
 
----
 
-## Explorer
+
+**Explorer**
 
 <div align="center">
   <!-- Languages -->
@@ -69,7 +69,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
 </div>
 
----
+
 
 ```
 outside of work:
