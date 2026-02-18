@@ -1,6 +1,6 @@
 # Hi, I'm Charlie 👋
 
-📍 **[Bangkok - Thailand]** | ⚙️ **Full Stack Dev & Cloud Tinkerer** | 🚀 **Builder of things that (mostly) work**
+📍 **[Bangkok - Thailand]** | 🚀 **Builder of things that (mostly) work**
 
 ![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/-Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
@@ -29,14 +29,12 @@
 
 - **Shipping features** - Backend in Go, frontend in Next.js, glue it all together with Docker
 - **Exploring cloud architecture** - AWS, GCP, DigitalOcean — right tool for the right job
-- **Reading** - Physics, economics, The 48 Laws of Power, whatever's interesting
+- **Reading** - Physics, Economics, whatever's interesting
 - **Playing** - Badminton, football, running clubs
 
 ## Connect
 
-[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/username)
-[![Twitter](https://img.shields.io/badge/-@username-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/username)
-[![LinkedIn](https://img.shields.io/badge/-Charlie-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/username)
+[![GitHub](https://img.shields.io/badge/-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Ch2r1Ie)
 
 ---
 
@@ -44,12 +42,7 @@
 
 > "Ship it. Iterate. Don't let perfect be the enemy of done."
 
-<details>
-<summary>Random Facts</summary>
-
-- Backend brain, frontend capable
-- Probably has 10 terminal tabs open right now
 - Coffee → code → repeat
 - Badminton is serious business
 
-</details>
+
