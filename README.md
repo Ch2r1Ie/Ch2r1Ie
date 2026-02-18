@@ -10,7 +10,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 
 ### Philosophy
 
-> “Get the shit done.”
+F* that. We’re gonna get it done.
 
 **Core Specializations:**
 - 🔧 **Backend Development**: Go (Golang), Kotlin
