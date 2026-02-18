@@ -6,7 +6,7 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 My expertise spans modern web technologies and cloud infrastructure, with a focus on creating impactful, real-world solutions.
 
 
-<br />
+
 
 ## Activity
 
@@ -14,7 +14,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
   <img src="https://ghchart.rshah.org/Ch2r1Ie" alt="GitHub Contributions Chart" />
 </p>
 
-<br />
+
 
 ## Projects
 
