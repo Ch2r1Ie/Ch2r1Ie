@@ -1,28 +1,45 @@
-# Hi there, I'm Charlie
+```bash
+$ whoami
+charlie — full stack dev & cloud tinkerer
+```
 
-<div align="center">
-  <h3>Full Stack Developer & Cloud Architect</h3>
-</div>
+```go
+package main
 
-## About Me
+import "fmt"
 
-I'm a full-stack engineer focused on crafting efficient, scalable applications from concept to deployment. My work spans modern web technologies and cloud infrastructure, with an emphasis on building solutions that solve real-world problems.
+type Charlie struct {
+    Languages  []string
+    Frontend   []string
+    Cloud      []string
+    DevOps     []string
+    CurrentlyBuilding string
+}
 
-## Core Specializations
+func main() {
+    me := Charlie{
+        Languages:  []string{"Go", "Kotlin", "TypeScript", "JavaScript", "Python"},
+        Frontend:   []string{"Next.js", "React", "Tailwind"},
+        Cloud:      []string{"AWS", "GCP", "DigitalOcean"},
+        DevOps:     []string{"Docker", "ArgoCD", "CI/CD", "Microservices"},
+        CurrentlyBuilding: "something cool...",
+    }
+    fmt.Printf("%+v\n", me)
+}
+```
 
-- **Backend Development**: Go (Golang)
-- **Frontend Engineering**: Next.js, React, TypeScript, JavaScript
-- **Cloud Architecture**: AWS, Google Cloud Platform, DigitalOcean
-- **DevOps & Infrastructure**: Docker, CI/CD, Microservices
+---
 
 ## Projects
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Project Name](https://github.com/username/repo) | Short description of what it does. | Go, PostgreSQL |
-| [Project Name](https://github.com/username/repo) | Short description of what it does. | Next.js, TypeScript |
+| [Project Name](https://github.com/username/repo) | What it does in one line. | Go, PostgreSQL |
+| [Project Name](https://github.com/username/repo) | What it does in one line. | Next.js, TypeScript |
 
-## Tech Stack
+---
+
+## Explore
 
 <div align="center">
   <!-- Languages -->
@@ -69,10 +86,11 @@ I'm a full-stack engineer focused on crafting efficient, scalable applications f
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" alt="linux logo" />
 </div>
 
-## Beyond Code
+---
 
-When I'm not building, you'll find me:
-
-- **Learning**: Exploring emerging technologies and best practices
-- **Reading**: Tech blogs, architecture patterns, physics, economics, and The 48 Laws of Power
-- **Sports**: Badminton, football, and running clubs
+```
+outside of work:
+  reading    → physics, economics, 48 laws of power
+  sports     → badminton, football, running
+  mindset    → always learning
+```
