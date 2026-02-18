@@ -1,7 +1,7 @@
 ## whoami
 
 **Thannathon**
-
+📍 Bangkok Thailand
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment.  
 My expertise spans modern web technologies and cloud infrastructure, with a focus on creating impactful, real-world solutions.
 
