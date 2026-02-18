@@ -9,10 +9,8 @@ I'm a passionate full-stack engineer who loves crafting efficient, scalable appl
 
 ## Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ch2r1Ie&show_icons=true&hide_border=true&theme=default" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ch2r1Ie&layout=compact&hide_border=true" />
-</p>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Projects
 
