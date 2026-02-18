@@ -23,7 +23,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 | [Project Name](https://github.com/username/repo) | What it does in one line. | Go, PostgreSQL |
 | [Project Name](https://github.com/username/repo) | What it does in one line. | Next.js, TypeScript |
 
-<br />
+
 
 ## Explorer
 
