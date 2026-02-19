@@ -14,7 +14,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| https://github.com/Ch2r1Ie/calculator | chrome extension calculator — explored how to build Chrome extension | Javascript, html |
+| https://github.com/Ch2r1Ie/calculator | Calculator — explored how to build Chrome extension | Javascript, html |
 
 
 
