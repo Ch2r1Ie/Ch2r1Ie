@@ -15,8 +15,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [[Project Name](https://github.com/username/repo)](https://github.com/Ch2r1Ie/calculator) | Chrome extension built using Claude Code — explored how to build Chrome extension | Javascript, html |
-| [Project Name](https://github.com/username/repo) | What it does in one line. | Next.js, TypeScript |
+| [https://github.com/Ch2r1Ie/calculator] | chrome extension calculator — explored how to build Chrome extension | Javascript, html |
 
 
 
