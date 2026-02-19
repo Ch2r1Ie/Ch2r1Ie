@@ -1,7 +1,6 @@
-## whoami
+## Hi !!! I'm Thannathon
 
-**Thannathon**
-<p>📍 Bangkok Thailand</p>
+<p>📍 Bangkok -- Thailand | Software Engineer | Badminton Player</p>
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment.  
 My expertise spans modern web technologies and cloud infrastructure, with a focus on creating impactful, real-world solutions.
 
