@@ -11,7 +11,7 @@ My expertise spans modern web technologies and cloud infrastructure, with a focu
   <img src="https://ghchart.rshah.org/Ch2r1Ie" alt="GitHub Contributions Chart" />
 </p>
 
-## Projects
+## Side Projects [just for fun!!!]
 
 | Project | Description | Stack |
 |---------|-------------|-------|
