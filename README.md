@@ -1,4 +1,4 @@
-## Hi !!! I'm Charlie
+<img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/f7d10c3b-7246-4e80-95bf-2ca4b09b5fd1" /><img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/eb059ddc-8078-4d97-9e49-84087eb6a71d" />## Hi !!! I'm Charlie
 
 <p>📍 Bangkok -- Thailand | Software Engineer | Badminton Player</p>
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment.  
