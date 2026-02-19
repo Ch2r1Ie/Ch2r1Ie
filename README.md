@@ -1,4 +1,4 @@
-## Hi !!! I'm Thannathon
+## Hi !!! I'm Charlie
 
 <p>📍 Bangkok -- Thailand | Software Engineer | Badminton Player</p>
 I'm a passionate full-stack engineer who loves crafting efficient, scalable applications from concept to deployment.  
